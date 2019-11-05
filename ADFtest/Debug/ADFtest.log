@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Develop\PRJ\VS\ADFtest\ADFtest\main.cpp(20,21): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\Develop\PRJ\VS\ADFtest\ADFtest\main.cpp(109,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Develop\PRJ\VS\ADFtest\ADFtest\main.cpp(242,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Develop\PRJ\VS\ADFtest\ADFtest\main.cpp(279,25): warning C4305: “参数”: 从“double”到“GLfloat”截断
+  ADFtest.vcxproj -> D:\Develop\PRJ\VS\ADFtest\ADFtest\Debug\ADFtest.exe
